@@ -16,22 +16,25 @@ Submission for <strong>"Belajar Membuat Aplikasi Android untuk Pemula"</strong> 
   <img src="screenshots/splash_screen.png"
   title="Splash Screen"
   alt="Display pictures and information in a list format"
-  style="float: left width="200"/>
+  style="float: left"
+  width="200"/>
 * Home
   <img src="screenshots/home_page.png"
   title="Home"
   alt="Display pictures and information in a list format"
-  style="float: left width="200"/>
+  style="float: left"
+  width="200"/>
 * News Detail
   <img src="screenshots/detail_page.png"
   title="Detail"
   alt="Shows relevant pictures and information on the clicked item from home page"
-  style="float: left width="200"/>
+  style="float: left" width="200"/>
 * About
   <img src="screenshots/about_page.png"
   title="About"
   alt="Show self-portraits, name, and email that registered in Dicoding"
-  style="float: left width="200"/>
+  style="float: left"
+  width="200"/>
 
 ## Installation
 
