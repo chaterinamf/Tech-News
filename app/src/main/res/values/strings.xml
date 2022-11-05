@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tech News</string>
+    <string name="about">About</string>
+    <string name="share">Share</string>
+    <string name="news_detail">News Detail</string>
+    <string name="app_description">Pspsps, I bet you want to drink dis\nH O T  T E A</string>
+    <string name="name">Chaterina Fransisca</string>
+    <string name="email">chaterinamariaf@gmail.com</string>
+    <string name="author">Author: %s</string>
+    <string name="published_time">Published at: %s</string>
+</resources>
